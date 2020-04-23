@@ -16,7 +16,7 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      message: 'Hallo Remon',
+      message: 'Die Pokemons werden zufällig sortiert!',
       content: <PokemonList />,
       zahl: 0
     }
